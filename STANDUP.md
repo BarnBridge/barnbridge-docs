@@ -9,14 +9,14 @@ This is a simple template to use when giving updates in the BarnBridge daily con
 
 **<< Person's Name >>:**
 
--   **What did I do:**\
-      - Describe the tasks you worked on in the previous and current days
+-   **What I did:**\
+      - Describe the tasks you worked on in the previous and current days and their status
 
--   **What will I do next:**\
-      - Describe the tasks you will work on until the next meeting
+-   **What I will do:**\
+      - Describe the tasks you will work on until the next Daily Connect
 
 -   **Blockers:**\
-      - Describe any blockers you might have and whose help you would need to become unblocked
+      - Describe any blockers you might have and whose help you need to become unblocked
       
 ### OTHER:
 
