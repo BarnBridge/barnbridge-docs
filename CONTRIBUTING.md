@@ -60,17 +60,17 @@ There are 3 types of stories in Clubhouse: Features, Bugs, and Chores. Features 
 
 1. Choose your story -- `story_id`
 2. Create a new branch locally: 
-  a. `git checkout master && git pull`
-  b. `git checkout -b [story_type]/[owner_username]/[chstory_id]`
+   1. `git checkout master && git pull`
+   2. `git checkout -b [story_type]/[owner_username]/[chstory_id]`
 3 Push the local branch to remote => story state, “In Development”
-  a. `git push -u origin [story_type]/[owner_username]/[chstory_id]`
+   1. `git push -u origin [story_type]/[owner_username]/[chstory_id]`
 4. Make commits in your branch 🚀
-  a. Optionally, you might want to include other stories in your branch.
-  b. You can do this by mentioning [chstory_id] in your commit.
+   1. Optionally, you might want to include other stories in your branch.
+   2. You can do this by mentioning [chstory_id] in your commit.
 5. Open a Pull Request.
-  a. Ask for Reviews from your peer developers.
+   1. Ask for Reviews from your peer developers.
 6. Merge Pull Request 🥂
-  a. ⚠️ It is the best practice to always rebase your branch with the Pull Request base branch before you merge it in.
+   1. ⚠️ It is the best practice to always rebase your branch with the Pull Request base branch before you merge it in.
 
 Read more - [Clubhouse docs](https://help.clubhouse.io/hc/en-us/articles/207540323-Using-the-Clubhouse-GitHub-Integration-with-Branches-and-Pull-Requests).
 
