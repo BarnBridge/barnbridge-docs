@@ -1,10 +1,34 @@
-# Introduction to BarnBridge
+# Get Started with BarnBridge
 
-BarnBridge is a risk tokenizing protocol. It allows hedging yield sensitivity and price volatility by accessing debt pools on other DeFi protocols, and transforming single pools into multiple assets with varying risk/return characteristics.
+Hey there!  
+  
+We are pleased to welcome you on the BarnBridge Docs page. It’s a great place to start learning more about the protocol and its products.
 
-BarnBridge idea and whitepaper were originally conceived in Q2 2019, but started getting built a year later, in May 2020, and was officially introduced in September 2020. BarnBridge aims at facilitating the transition to a decentralized financial system addressing some key aspects of institutional activity, such as risk management and access to fixed income instruments.
+BarnBridge is a risk tokenizing protocol. It aims to reduce the risks associated with DeFi, such as inflation risk, market price risk, and cash-flow volatility risk. By letting users select a risk profile, BarnBridge can redistribute risk via tokenized, liquid tranches. BarnBridge does this with its SMART Yield, SMART Exposure, and SMART Alpha products, all of which address a specific DeFi risk category.
 
-The team is working to make the decentralized financial system more efficient, risk-flexible, and attractive to a wider range of participants through their fluctuation derivative protocol. BOND, the native token of BarnBridge, is an ERC-20 token that can be used to stake on the system and for governance once the governance module is launched.
+The continued development of the dApps is provided by the core team and governed by the community through the BarnBridge DAO.
 
-![](.gitbook/assets/image.png)
+To learn more, make sure to check the following materials that explicitly cover the protocol and products details:
+
+* [BarnBridge: Risk-Adjusted Exposure to Decentralized Finance](https://docs.google.com/document/d/18nCG-_TlT0WfPWU0sucmkM_efuUP4dw85ZMjSdjQqEA/edit?usp=sharing)
+* [Beginner’s Guide to Governance](governance/beginners-guide-to-governance.md)
+* [Beginner’s Guide to SMART Yield](beginners-guide-to-smart-yield.md)
+
+Here’s the list of additional resources you may be interested in:
+
+* [Whitepaper](https://github.com/BarnBridge/BarnBridge-Whitepaper)
+* [Medium Blog](https://medium.com/barnbridge)
+* [GitHub](https://github.com/barnbridge/)
+* [BarnBurner Weekly Newsletter by Max Fiege](https://barnburner.substack.com/)
+
+Also, feel free to jump into our social media to get engaged with the community:
+
+* [Discord Community Server](https://discord.gg/JsAZTYmD)
+* [Twitter](https://twitter.com/Barn_Bridge)
+* [YouTube](https://www.youtube.com/channel/UC4exzX_c37p2gYJK4L9nrGQ)
+* [Telegram](https://t.me/barnbridge_official)
+
+Now, let’s get started!
+
+![](.gitbook/assets/image%20%281%29.png)
 

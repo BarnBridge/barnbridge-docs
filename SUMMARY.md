@@ -1,7 +1,25 @@
 # Table of contents
 
-* [Introduction to BarnBridge](README.md)
-* [Smart Contract Architecture](smart-contract-architecture.md)
+* [Get Started with BarnBridge](README.md)
+
+## Products
+
+---
+
+* [Beginner's Guide to SMART Yield](beginners-guide-to-smart-yield.md)
+* [Advanced Guide to SMART Yield](https://drive.google.com/file/d/1sfY_N2xf503m7Gl02rmIoRllVgcBwUWH/view?usp=sharing)
+
+## Governance
+
+* [Beginner's Guide to Governance](governance/beginners-guide-to-governance.md)
+* [BarnBridge DAO](https://app.barnbridge.com/governance/overview)
+* [Signal](https://signal.barnbridge.com)
+* [Forum](https://forum.barnbridge.com/)
+
+## Yield Farming
+
+* [Active Pools](yield-farming/active-pools.md)
+* [Inactive Pools \(Ended\)](yield-farming/inactive-pools-ended.md)
 
 ## How to Guides
 
@@ -24,45 +42,19 @@
   * [How to stake jTokens and earn BOND rewards?](how-to-guides/smart-yield/how-to-stake-jtokens-and-earn-bond-rewards.md)
   * [How to unstake jToken?](how-to-guides/smart-yield/how-to-unstake-jtoken.md)
 
-## Governance
-
-* [DAO Specifications](governance/barnbridge-dao/README.md)
-  * [Overview](governance/barnbridge-dao/overview.md)
-  * [Thresholds](governance/barnbridge-dao/thresholds.md)
-  * [Multiplier & Voting Power](governance/barnbridge-dao/multiplier-and-voting-power.md)
-  * [Proposals & Voting](governance/barnbridge-dao/proposals-and-voting.md)
-  * [DAO Staking](governance/barnbridge-dao/dao-staking.md)
-* [BarnBridge DAO](https://app.barnbridge.com/governance/overview)
-* [Signal](https://signal.barnbridge.com)
-* [Forum](https://forum.barnbridge.com/)
-
-## Products
+## Resources
 
 ---
 
-* [SMART Yield Specifications](sy-specs/README.md)
-  * [Overview](sy-specs/overview.md)
-  * [Junior Tranches \(Tokens\)](sy-specs/junior-tranches.md)
-  * [Senior Tranches \(Bonds\)](sy-specs/senior-tranches.md)
-  * [Fee Structure & Secondary Markets](sy-specs/fee-structure-and-secondary-markets.md)
-* [SMART Alpha](https://barnbridge.com/smart-alpha/)
+* [FAQ](faq-1.md)
 * [Standards & Disclosures](standards-and-disclosures.md)
+* [Whitepaper](https://github.com/BarnBridge/BarnBridge-Whitepaper)
+* [GitHub](https://github.com/BarnBridge/)
 
-## FAQ
-
-* [General](faq/general.md)
-* [$BOND Token](faq/bond-token.md)
-* [DAO Governance](faq/dao-governance.md)
-* [Token Distribution Programs](faq/token-distribution-programs.md)
-* [SMART Yield](faq/products.md)
-* [SMART Alpha](faq/smart-alpha.md)
-
-## Additional Resources
+## Social
 
 * [Community Discord](https://discord.gg/FfEhsVk)
 * [Twitter](https://twitter.com/barn_bridge)
 * [Medium Blog](https://medium.com/barnbridge)
 * [Telegram](https://t.me/barnbridge_official)
-* [Whitepaper](https://github.com/BarnBridge/BarnBridge-Whitepaper)
-* [GitHub](https://github.com/BarnBridge/)
 
