@@ -46,7 +46,7 @@
 
 ---
 
-* [FAQ](faq-1.md)
+* [FAQ](faq.md)
 * [Standards & Disclosures](standards-and-disclosures.md)
 * [Whitepaper](https://github.com/BarnBridge/BarnBridge-Whitepaper)
 * [GitHub](https://github.com/BarnBridge/)
