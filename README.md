@@ -30,5 +30,5 @@ Also, feel free to jump into our social media to get engaged with the community:
 
 Now, let’s get started!
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/gim.png)
 
