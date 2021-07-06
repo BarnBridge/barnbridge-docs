@@ -56,5 +56,5 @@
 * [Community Discord](https://discord.gg/FfEhsVk)
 * [Twitter](https://twitter.com/barn_bridge)
 * [Medium Blog](https://medium.com/barnbridge)
-* [Telegram](https://t.me/barnbridge_official)
+* [Telegram](https://t.me/BarnBridgeChannel)
 

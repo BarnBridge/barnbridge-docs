@@ -19,14 +19,13 @@ Here’s the list of additional resources you may be interested in:
 * [Whitepaper](https://github.com/BarnBridge/BarnBridge-Whitepaper)
 * [Medium Blog](https://medium.com/barnbridge)
 * [GitHub](https://github.com/barnbridge/)
-* [BarnBurner Weekly Newsletter by Max Fiege](https://barnburner.substack.com/)
 
 Also, feel free to jump into our social media to get engaged with the community:
 
 * [Discord Community Server](https://discord.gg/JsAZTYmD)
 * [Twitter](https://twitter.com/Barn_Bridge)
 * [YouTube](https://www.youtube.com/channel/UC4exzX_c37p2gYJK4L9nrGQ)
-* [Telegram](https://t.me/barnbridge_official)
+* [Telegram](https://t.me/BarnBridgeChannel)
 
 Now, let’s get started!
 
