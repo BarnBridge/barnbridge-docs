@@ -41,6 +41,7 @@
   * [How to sell senior bonds?](how-to-guides/smart-yield/how-to-sell-senior-bonds.md)
   * [How to stake jTokens and earn BOND rewards?](how-to-guides/smart-yield/how-to-stake-jtokens-and-earn-bond-rewards.md)
   * [How to unstake jToken?](how-to-guides/smart-yield/how-to-unstake-jtoken.md)
+* [What can I do with BOND?](how-to-guides/what-can-i-do-with-bond.md)
 
 ## Resources
 
