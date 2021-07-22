@@ -60,6 +60,20 @@ The probability to outperform buy and hold strategies are the highest with:
 * **Non-Correlated Assets**: Non-correlation results in greater ratio volatility.
 * **Mid- to Long-Term Time Horizon**: Volatility harvesting is most likely to outperform buy and hold strategies over longer timeframes.
 
+You can refer to our backtesting [here](https://drive.google.com/file/d/1fro709VIAkD_ad9gkgyVR27BO7K_Jmy0/view) to see how daily rebalances for popular 50:50 pairs outperformed AMM strategies over time. Namely:
+
+### **For ETH/USD:**
+
+![](.gitbook/assets/image%20%2814%29.png)
+
+### **For BTC/USD:**
+
+![](.gitbook/assets/image%20%2812%29.png)
+
+### **For BTC/ETH**
+
+![](.gitbook/assets/image%20%2817%29.png)
+
 ## Security & Audits
 
 We successfully passed through an audit by Haechi on May 5th. It’s available here: [Haechi audit](https://github.com/BarnBridge/BarnBridge-PM/blob/master/audits/BarnBridge%20SMART%20Exposure%20audit%20by%20Hacken.pdf).

@@ -15,7 +15,7 @@ SMART Yield fulfills both Alice and Bob’s needs as it offers two types of risk
 * Junior Pools: higher risk, levered variable rate rewards
 * Senior Pools: lower risk, fixed-rate rewards
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 Users are able to deposit funds into either the junior or senior pool in exchange for a token indicating their claim on their principal and whatever yield is allocated for them. These aggregated holdings are then deposited into the specified originating lending market, e.g. Compound.
 
@@ -95,7 +95,7 @@ Now that we know what sBonds and jTokens are, it’s time to figure out how they
 
 Let’s get back to our example with Alice and Bob. They both decided to deposit into the Compound USDC pool on BarnBridge.
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/image%20%2813%29.png)
 
 Alice wants to purchase a senior bond. She is looking at the senior APY and 6.4% seems like a decent rate of return considering the reward is guaranteed.
 
@@ -103,7 +103,7 @@ Alice wants to purchase a senior bond. She is looking at the senior APY and 6.4%
 
 She goes to the Deposit page, enters the amount of 100M USDC, selects the maturity date of 1 year, and suddenly sees that the guaranteed APY isn’t so high anymore. It has lowered because there is not enough junior liquidity in the pool to fix a 6.4% return for such a large deposit. However, the rate is still attractive, so she decides to go through with it.
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 Alice now holds an NFT senior bond and is able to track her portfolio growth using the statistics section in the BarnBridge app. She will be able to redeem both her principal and gain at the maturity date. There is currently no formal secondary marketplace for senior bonds but they are totally transferable between Ethereum addresses and BarnBridge core team is working on an additional product for it called SMART FIAT \(full details disclosed in a few weeks\).
 

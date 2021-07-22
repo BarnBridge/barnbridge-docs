@@ -9,6 +9,7 @@
 * [Beginner's Guide to SMART Yield](beginners-guide-to-smart-yield.md)
 * [Advanced Guide to SMART Yield](https://drive.google.com/file/d/1sfY_N2xf503m7Gl02rmIoRllVgcBwUWH/view?usp=sharing)
 * [Beginner's Guide to SMART Exposure](beginners-guide-to-smart-exposure.md)
+* [SMART Exposure Backtesting](https://drive.google.com/file/d/1fro709VIAkD_ad9gkgyVR27BO7K_Jmy0/view)
 
 ## Governance
 
