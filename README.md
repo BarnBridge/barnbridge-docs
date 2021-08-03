@@ -1,4 +1,4 @@
-# Get Started with BarnBridge
+# 📌 Get Started with BarnBridge
 
 Hey there!  
   

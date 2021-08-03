@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Get Started with BarnBridge](README.md)
+* [📌 Get Started with BarnBridge](README.md)
 
-## Products
+## Product Guides <a id="products"></a>
 
 ---
 
@@ -23,7 +23,7 @@
 * [Active Pools](yield-farming/active-pools.md)
 * [Inactive Pools \(Ended\)](yield-farming/inactive-pools-ended.md)
 
-## How to Guides
+## Tutorials <a id="how-to-guides"></a>
 
 * [BarnBridge DAO](how-to-guides/barnbridge-dao/README.md)
   * [How to get $BOND tokens?](how-to-guides/barnbridge-dao/how-to-get-bond-tokens.md)
@@ -50,6 +50,7 @@
 ---
 
 * [FAQ](faq.md)
+* [Access Controls](access-controls.md)
 * [Standards & Disclosures](standards-and-disclosures.md)
 * [Whitepaper](https://github.com/BarnBridge/BarnBridge-Whitepaper)
 * [GitHub](https://github.com/BarnBridge/)
