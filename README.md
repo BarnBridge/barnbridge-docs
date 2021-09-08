@@ -8,11 +8,16 @@ BarnBridge is a risk tokenizing protocol. It aims to reduce the risks associated
 
 The continued development of the dApps is provided by the core team and governed by the community through the BarnBridge DAO.
 
-To learn more, make sure to check the following materials that explicitly cover the protocol and products details:
+Watch the "What is BarnBridge" video below to get a more detailed overview of the protocol: 
+
+{% embed url="https://youtu.be/aqC\_r7SPX-g" %}
+
+To learn even more, feel free to check the following materials that explicitly cover the protocol and products details:
 
 * [BarnBridge: Risk-Adjusted Exposure to Decentralized Finance](https://docs.google.com/document/d/18nCG-_TlT0WfPWU0sucmkM_efuUP4dw85ZMjSdjQqEA/edit?usp=sharing)
 * [Beginner’s Guide to Governance](governance/beginners-guide-to-governance.md)
-* [Beginner’s Guide to SMART Yield](beginners-guide-to-smart-yield.md)
+* [Beginner’s Guide to SMART Yield](smart-yield/beginners-guide-to-smart-yield.md)
+* [Beginner's Guide to SMART Alpha](beginners-guide-to-smart-alpha.md)
 
 Here’s the list of additional resources you may be interested in:
 
