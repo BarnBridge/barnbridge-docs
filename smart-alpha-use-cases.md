@@ -27,4 +27,3 @@ Risk-averse users in search of low-volatility collateral could borrow against SM
 {% hint style="info" %}
 The downside protection offered to senior depositors varies epoch to epoch as a function of junior pool dominance.
 {% endhint %}
-

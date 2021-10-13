@@ -16,7 +16,7 @@ BOND token is a governance token that powers the BarnBridge DAO protocol.
 
 BOND is an ERC-20 token. Token holders have the ability to govern the network by staking their holdings in return for the right to participate in on-chain voting and make decisions on the protocol development.
 
-* BOND total supply: 10,000,000 \(minting function is disabled\).
+* BOND total supply: 10,000,000 (minting function is disabled).
 * Token contract address: [0x0391D2021f89DC339F60Fff84546EA23E337750f](https://etherscan.io/token/0x0391D2021f89DC339F60Fff84546EA23E337750f)
 
 📔 [What can you do with your BOND?](governance/what-can-i-do-with-bond.md)
@@ -27,7 +27,7 @@ The distribution breakdown is designed to facilitate the protocol decentralizati
 
 ℹ️ [Token distribution and liquidity schedule](https://barnbridge.com/token-bond/)
 
-![](.gitbook/assets/tokendistribution.png)
+![](.gitbook/assets/TokenDistribution.png)
 
 ### 4. How long is the team vesting schedule?
 
@@ -48,14 +48,14 @@ You can also check the current circulating supply in our Discord bot or using th
 
 BarnBridge Non-Fungible Tokens program was an additional initiative for rewarding active community participants with custom ERC-721 NFTs. The program ended on Jan 28th, 2021. 
 
-Read more:  
+Read more:\
 📔[Sunsetting our NFT program with community rewards](https://medium.com/barnbridge/sunsetting-our-nft-program-with-community-rewards-85fc8fd1a82a)
 
 ### 7. How to get BOND tokens?
 
-BOND tokens are ERC-20 compatible which means they are traded both DEXes and CEXes. The list of the available markets for BOND token purchase is available on [Coinmarketcap](https://coinmarketcap.com/currencies/barnbridge/markets/) or [CoinGecko](https://www.coingecko.com/en/coins/barnbridge#markets).  
-  
-The DEX market with the most liquidity is a [USDC/BOND Uniswap Pool](https://app.uniswap.org/#/swap?inputCurrency=0x0391d2021f89dc339f60fff84546ea23e337750f&outputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48).
+BOND tokens are ERC-20 compatible which means they are traded both DEXes and CEXes. The list of the available markets for BOND token purchase is available on [Coinmarketcap](https://coinmarketcap.com/currencies/barnbridge/markets/) or [CoinGecko](https://www.coingecko.com/en/coins/barnbridge#markets).\
+\
+The DEX market with the most liquidity is a [USDC/BOND Uniswap Pool](https://app.uniswap.org/#/swap?inputCurrency=0x0391d2021f89dc339f60fff84546ea23e337750f\&outputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48).
 
 ### 8. How many BOND token holders are there?
 
@@ -69,7 +69,7 @@ You can check the latest statistics on [Etherscan](https://etherscan.io/token/0x
 
 USDC/DAI/sUSD yield farming pool was launched on Oct 19th, 2020. This staking contract was the first mechanism delivering initial BOND token distribution to the community. This contract held 8% of the total supply and was distributing tokens to community members who stake DAI, USDC, & sUSD.
 
-Read more in the Medium article:  
+Read more in the Medium article:\
 📔 [Yield Farming and LP Incentivization](https://medium.com/barnbridge/yield-farming-and-lp-incentivization-25eba3f55ec4)
 
 ![](https://lh3.googleusercontent.com/fllYQ2gKQK0OTldAPYJ9kMvoLWPNyhhFG2bg0oxo7vog1HSxgWu-3Vv42eFgJh4-JAnd8zlL0GIwdJ-QLvfYmQVQTPcgtA_ARaRyi8msKTQk5R57o-LChV58XB6ghJKu3d1urVeg)
@@ -81,16 +81,16 @@ USDC/BOND liquidity pool incentivization program was launched on Oct 26th, 2020.
 To stake in the pool you need to complete 2 steps:
 
 1. Provide liquidity in both USDC & BOND to the [Uni v2 USDC/BOND pool](https://app.uniswap.org/#/add/v2/0x0391d2021f89dc339f60fff84546ea23e337750f/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48) and get LP tokens.
-2. Stake those LP tokens in the [BarnBridge USDC\_BOND\_UNI\_LP pool](https://app.barnbridge.com/yield-farming/unilp).
+2. Stake those LP tokens in the [BarnBridge USDC_BOND_UNI_LP pool](https://app.barnbridge.com/yield-farming/unilp).
 
-You need to know that liquidity providers are exposed to different risks so we recommend checking this Medium article before considering the move:  
+You need to know that liquidity providers are exposed to different risks so we recommend checking this Medium article before considering the move:\
 📔 [Yield Farming $BOND: The Risks Involved](https://medium.com/barnbridge/yield-farming-bond-the-risks-involved-7cefdba01b17)
 
-![](https://lh4.googleusercontent.com/cFJpVGHyc65kAxNqnR1cNi0Rovi79z4FmM9-RV3BmUU3_o5147HZkAHLRYE7pFmuMdcBaYDKuTfJEkzl_aVM5LchQkh06oQmQYHC_QnAlDrkwX7hhbTNnLAvmyH-Zxhphj_yVWE9)
+![](https://lh4.googleusercontent.com/cFJpVGHyc65kAxNqnR1cNi0Rovi79z4FmM9-RV3BmUU3\_o5147HZkAHLRYE7pFmuMdcBaYDKuTfJEkzl_aVM5LchQkh06oQmQYHC_QnAlDrkwX7hhbTNnLAvmyH-Zxhphj_yVWE9)
 
 ### 11. BOND hodl pool
 
-BOND Hodl Pool was launched on Nov 16th, 2020. It has run for 12 epochs \(weeks\) and distributed 60,000 BOND tokens in rewards to the users. BOND Hodl Pool ended on Feb 8th, 2021. Users that haven’t claimed their rewards are still able to do that by visiting the [pool page](https://app.barnbridge.com/yield-farming/bond) in the app.
+BOND Hodl Pool was launched on Nov 16th, 2020. It has run for 12 epochs (weeks) and distributed 60,000 BOND tokens in rewards to the users. BOND Hodl Pool ended on Feb 8th, 2021. Users that haven’t claimed their rewards are still able to do that by visiting the [pool page](https://app.barnbridge.com/yield-farming/bond) in the app.
 
 ### 12. DAO staking pool
 
@@ -98,10 +98,10 @@ DAO Staking pool was launched on Feb 8th, 2021. It was designed as an extra ince
 
 The pool was preloaded with 610,000 BOND tokens that should be distributed within 50 weeks.
 
-Read more in the Medium article:  
+Read more in the Medium article:\
 📔 [Pool 3 ends and DAO governance rewards begins](https://medium.com/barnbridge/pool-3-ends-and-dao-governance-rewards-begins-8e57ec5041)
 
-Learn how to stake in the DAO in this guide:  
+Learn how to stake in the DAO in this guide:\
 ℹ️ [How to stake in the DAO?](governance/barnbridge-dao-faq/how-to-obtain-voting-power-on-the-dao.md)
 
 ![](https://lh4.googleusercontent.com/djsfYrN2Q2Jj7M-EmTDDMNFHodpKyP-iYjXr22DWMgTCEA_SgXgCa9jqp6IB7RbmzGwz-ZS9Hc-eradWakvtVXwNtRgd4HbAO8KMK8qHhkDQJPWnfAfDkYPPnLAXRkMWrRlGrm8T)
@@ -110,24 +110,24 @@ Learn how to stake in the DAO in this guide:
 
 Junior incentivization was launched with the Compound USDC pool on March 31, 2021. It was then expanded by the DAO vote to subsidize Aave and Cream pools as well.
 
-**Compound \(launch date: Mar 31, 2021; duration: 25 weeks\):**
+**Compound (launch date: Mar 31, 2021; duration: 25 weeks):**
 
 * USDC: 10,000 BOND/week
 
-**Aave \(launch date: May 30, 2021; duration: 10 weeks\):**
+**Aave (launch date: May 30, 2021; duration: 10 weeks):**
 
 * USDC: 10,000 BOND/week
 * USDT: 4,000 BOND/week
 * DAI: 2,500 BOND/week
 * GUSD: 500 BOND/week
 
-**C.R.E.A.M. \(launch date: May 30, 2021; duration: 10 weeks\):**
+**C.R.E.A.M. (launch date: May 30, 2021; duration: 10 weeks):**
 
 * USDC: 500 BOND/week
 * USDT: 250 BOND/week
 * DAI: 250 BOND/week
 
-To start using the pools, you need to mint junior tokens and stake in the junior yield farming pool.  
+To start using the pools, you need to mint junior tokens and stake in the junior yield farming pool.\
 ➡️ [Use app](https://app.barnbridge.com/smart-yield/markets)
 
 ### 14. What is the APR?
@@ -136,7 +136,7 @@ You can check the APR for all the pools on [CoinGecko](https://www.coingecko.com
 
 ## BarnBridge Governance
 
-### 15. What is Launch DAO \(Closed\)?
+### 15. What is Launch DAO (Closed)?
 
 BarnBridge has been using the “DAO First” governance model, which means it has never been, and never will be, a traditional company. Instead, BarnBridge founders decided to launch the project as a DAO and split the governance between the core team. This DAO was called LaunchDAO.
 
@@ -154,37 +154,37 @@ LaunchDAO is now closed. BarnBridge protocol is completely governed by the commu
 
 BarnBridge governance is structured around the BarnBridge DAO which is controlled by the BOND token holders. It has full control over the protocol and the features that are built into it. 
 
-Learn more by checking resources below:  
-📔 [Beginner’s Guide to BarnBridge Governance](governance/beginners-guide-to-governance.md)  
+Learn more by checking resources below:\
+📔 [Beginner’s Guide to BarnBridge Governance](governance/beginners-guide-to-governance.md)\
 📔 [DAO Specifications](https://integrations.barnbridge.com/specs/dao-specifications)
 
-### 17. What is Signal \(Snapshot page\)?
+### 17. What is Signal (Snapshot page)?
 
-Snapshot.page is an off-chain gasless governance client. We use it to test the proposal potential before we create a real one on the Ethereum mainnet. Creating a proposal and voting is free, no transactions needed. Proposals and votes are just signed messages stored on IPFS. Signatures are easily verifiable online, they use the "eth\_sign" format.
+Snapshot.page is an off-chain gasless governance client. We use it to test the proposal potential before we create a real one on the Ethereum mainnet. Creating a proposal and voting is free, no transactions needed. Proposals and votes are just signed messages stored on IPFS. Signatures are easily verifiable online, they use the "eth_sign" format.
 
-🔗 [BarnBridge Signal](https://signal.barnbridge.com/)
+🔗 [BarnBridge Signal](https://signal.barnbridge.com)
 
 ### 18. How to lock tokens in the DAO?
 
 Users are able to lock BOND tokens in the DAO to increase their voting power. However, locking does NOT increase the pool share and, therefore, the amount of rewards in the DAO staking pool.
 
-Learn more about locking tokens:  
-📔 [How does locking BOND tokens work?](https://integrations.barnbridge.com/specs/dao-specifications#users-can-lock-bond-for-vbond)  
+Learn more about locking tokens:\
+📔 [How does locking BOND tokens work?](https://integrations.barnbridge.com/specs/dao-specifications#users-can-lock-bond-for-vbond)\
 ℹ️ [How to lock tokens in the DAO?](governance/barnbridge-dao-faq/how-to-lock-bond-to-increase-voting-power.md)
 
 ### 19. How to delegate voting power?
 
 Delegating voting power can be used by anyone who stakes BOND tokens in the DAO. 
 
-Learn more about voting power delegation:  
-📔 [How does it work?](https://integrations.barnbridge.com/specs/dao-specifications#users-can-delegate-vbond-to-other-users)  
+Learn more about voting power delegation:\
+📔 [How does it work?](https://integrations.barnbridge.com/specs/dao-specifications#users-can-delegate-vbond-to-other-users)\
 ℹ️ [How to delegate voting power?](governance/barnbridge-dao-faq/how-to-delegate-voting-power.md)
 
 ### 20. How to withdraw BOND from the DAO?
 
 BOND tokens can be withdrawn from the DAO at any time unless they are locked.
 
-Here’s the guide on how to do it:  
+Here’s the guide on how to do it:\
 ℹ️ [How to withdraw BOND from the DAO?](governance/barnbridge-dao-faq/how-to-withdraw-bond-from-the-dao.md)
 
 ## SMART Yield
@@ -193,21 +193,21 @@ Here’s the guide on how to do it:
 
 SMART Yield pools the yield from the lending platforms, such as Aave and Compound, and splits it into tranches with different risk profiles.
 
-Tranches are represented by junior \(ERC-20\) and senior \(ERC-721\) tokens. Junior token holders provide liquidity & buy risk from senior bond investors. The risk here is variable rate annuities going below the expected level. Investors that buy senior bonds will have a guaranteed yield/interest rate for the life of the bond.
+Tranches are represented by junior (ERC-20) and senior (ERC-721) tokens. Junior token holders provide liquidity & buy risk from senior bond investors. The risk here is variable rate annuities going below the expected level. Investors that buy senior bonds will have a guaranteed yield/interest rate for the life of the bond.
 
-At the same time, juniors will benefit from the extra rewards generated by tokens locked by seniors in cases where the variable APY of the underlying lending protocol \(including the governance token rewards\) are higher than the weighted average guaranteed yields of current seniors.
+At the same time, juniors will benefit from the extra rewards generated by tokens locked by seniors in cases where the variable APY of the underlying lending protocol (including the governance token rewards) are higher than the weighted average guaranteed yields of current seniors.
 
-Learn more about SMART Yield:  
-📔 [Beginner's Guide to SMART Yield](smart-yield/beginners-guide-to-smart-yield.md)  
+Learn more about SMART Yield:\
+📔 [Beginner's Guide to SMART Yield](smart-yield/beginners-guide-to-smart-yield.md)\
 🔗 [Website](https://barnbridge.com/smart-yield)
 
 ### 22. What are tranches?
 
-Tranches are pieces of a pooled yield that are split up by risk in order to be marketable to different investors.  
-  
+Tranches are pieces of a pooled yield that are split up by risk in order to be marketable to different investors.\
+\
 In BarnBridge ecosystem tranches are represented by ERC-20 and ERC-721 tokens. 
 
-To learn more about tranching risk in SMART Yield, check this guide:  
+To learn more about tranching risk in SMART Yield, check this guide:\
 📔 [Beginner's Guide to SMART Yield](smart-yield/beginners-guide-to-smart-yield.md)
 
 ### 23. What are the junior and senior APYs?
@@ -231,7 +231,7 @@ On the junior side, fees are collected on jToken purchases. On the senior side, 
 
 In order to buy junior tokens or purchase senior bonds, you have to connect your wallet at [https://app.barnbridge.com](https://app.barnbridge.com) and follow the instructions described in the guides below.
 
-ℹ️ [How to buy junior tokens?](smart-yield/smart-yield-faq/how-to-buy-junior-tokens.md)  
+ℹ️ [How to buy junior tokens?](smart-yield/smart-yield-faq/how-to-buy-junior-tokens.md)\
 ℹ️ [How to purchase senior bonds?](smart-yield/smart-yield-faq/how-to-buy-senior-bonds.md)
 
 ### 26. How to redeem senior bonds?
@@ -252,7 +252,7 @@ Instant withdrawal allows you to get access to your liquidity immediately but re
 
 2-step withdrawal allows the withdrawal of the full amount of liquidity but in the future. 
 
-The first step is issuing a junior bond with parameters including the withdrawal amount and a maturity date \(which is calculated at the time of the bond minting and depends on the avg. senior maturity\).
+The first step is issuing a junior bond with parameters including the withdrawal amount and a maturity date (which is calculated at the time of the bond minting and depends on the avg. senior maturity).
 
 The second step is redeeming the junior bond at maturity. 
 
@@ -268,6 +268,4 @@ The junior incentivisation pool is a great opportunity for gaining some extra re
 
 SMART Yield is aligning two different groups of DeFi market participants to create a TVL-accruing flywheel.  As more participants enter into junior tranches, the fixed income rate offered by the next marginal senior tranche rises until one market participant purchases that tranche, thereby providing more capital to the protocol and driving up the variable rate being earned by all junior tranches. This cycle is best captured by “Pavlo’s Loop” as described in the community Discord chat: 
 
-`more juniors = more seniors = more juniors = more seniors = ...`  
-
-
+`more juniors = more seniors = more juniors = more seniors = ...`\

@@ -1,6 +1,6 @@
 # How to create a proposal?
 
-To create a proposal you need to have at least 1% of $BOND staked in Barn \(DAO Staking contract\).
+To create a proposal you need to have at least 1% of $BOND staked in Barn (DAO Staking contract).
 
 ## Text Walkthrough
 
@@ -17,6 +17,5 @@ To create a proposal you need to have at least 1% of $BOND staked in Barn \(DAO 
 6. Once the transaction is approved your proposal will appear in the list of proposals on the “All Proposals” section.
 
 {% hint style="info" %}
-Before platform members can vote on your proposal it should go through the Warm-up period. You can find more information about proposals & voting [here]().
+Before platform members can vote on your proposal it should go through the Warm-up period. You can find more information about proposals & voting [here](broken-reference).
 {% endhint %}
-

@@ -15,7 +15,7 @@ SMART Yield fulfills both Alice and Bob’s needs as it offers two types of risk
 * Junior Pools: higher risk, levered variable rate rewards
 * Senior Pools: lower risk, fixed-rate rewards
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](<../.gitbook/assets/image (11).png>)
 
 Users are able to deposit funds into either the junior or senior pool in exchange for a token indicating their claim on their principal and whatever yield is allocated for them. These aggregated holdings are then deposited into the specified originating lending market, e.g. Compound.
 
@@ -29,7 +29,7 @@ Now it’s time to learn more about senior and junior tranches, and how they are
 
 ### **Overview**
 
-SMART Yield senior positions are represented by ERC-721 non-fungible tokens \(NFTs\), which we call senior bonds \(sBonds\). Senior bonds are minted \(created\) each time the user deposits into the pool.
+SMART Yield senior positions are represented by ERC-721 non-fungible tokens (NFTs), which we call senior bonds (sBonds). Senior bonds are minted (created) each time the user deposits into the pool.
 
 Since bonds are unique and contain specific information, each bond NFT has a set of properties:
 
@@ -58,7 +58,7 @@ Senior APY is the annual percentage yield that is available for the next margina
 
 Here is the simple formula that is used to calculate senior APY:
 
-```text
+```
 ((gain/principal) / (maturesAt - issuedAt)) * 365 * 100
 ```
 
@@ -66,7 +66,7 @@ Here is the simple formula that is used to calculate senior APY:
 
 ### **Overview**
 
-SMART Yield Junior pool positions are represented by ERC-20 fungible tokens, which we call junior tokens \(jTokens\). Junior tokens are minted each time the user purchases them at a current conversion rate using BarnBridge app.
+SMART Yield Junior pool positions are represented by ERC-20 fungible tokens, which we call junior tokens (jTokens). Junior tokens are minted each time the user purchases them at a current conversion rate using BarnBridge app.
 
 Each originator’s junior token has its own ticker. For example, USDC in Compound’s pool is called `bb_cUSDC`, where `bb` stands for BarnBridge and `c`is the first letter of the originator’s protocol name.
 
@@ -74,9 +74,9 @@ Each originator’s junior token has its own ticker. For example, USDC in Compou
 
 Junior APY determines the annual percentage yield for the junior tokens at the current time. It is realized only when exiting the position and converting jTokens into the underlying asset.
 
-When the new pool starts, the conversion rate of jTokens is 1:1. For example, if you tried to deposit into the Compound USDC pool, you would get 1 `bb_cUSDC` for each USDC you put in. Going forward, the conversion rate changes with the price of `bb_cUSDC` increasing \(as your deposit generates yield\) or decreasing \(in scenarios where the Junior pool has Senior pool yield obligations\).
+When the new pool starts, the conversion rate of jTokens is 1:1. For example, if you tried to deposit into the Compound USDC pool, you would get 1 `bb_cUSDC` for each USDC you put in. Going forward, the conversion rate changes with the price of `bb_cUSDC` increasing (as your deposit generates yield) or decreasing (in scenarios where the Junior pool has Senior pool yield obligations).
 
-APY can be calculated as annualized difference between your purchase and your sell \(exit\) price.
+APY can be calculated as annualized difference between your purchase and your sell (exit) price.
 
 ### **Junior Bond**
 
@@ -85,7 +85,7 @@ There are two ways to withdraw Junior pool liquidity. Depending on the method, u
 A Junior bond will have the following properties:
 
 * `tokens` — the amount of jTokens that will be withdrawn;
-* `maturesAt` — the date when the bond can be redeemed \(determined by the ABOND variable’s maturity date\).
+* `maturesAt` — the date when the bond can be redeemed (determined by the ABOND variable’s maturity date).
 
 In order to exit the junior position using junior bonds, two steps should be initiated. Step one is minting a junior bond token by choosing the 2-step withdrawal option. Step two is redeeming the liquidity at its maturity date.
 
@@ -95,7 +95,7 @@ Now that we know what sBonds and jTokens are, it’s time to figure out how they
 
 Let’s get back to our example with Alice and Bob. They both decided to deposit into the Compound USDC pool on BarnBridge.
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](<../.gitbook/assets/image (12).png>)
 
 Alice wants to purchase a senior bond. She is looking at the senior APY and 6.4% seems like a decent rate of return considering the reward is guaranteed.
 
@@ -103,9 +103,9 @@ Alice wants to purchase a senior bond. She is looking at the senior APY and 6.4%
 
 She goes to the Deposit page, enters the amount of 100M USDC, selects the maturity date of 1 year, and suddenly sees that the guaranteed APY isn’t so high anymore. It has lowered because there is not enough junior liquidity in the pool to fix a 6.4% return for such a large deposit. However, the rate is still attractive, so she decides to go through with it.
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](<../.gitbook/assets/image (13).png>)
 
-Alice now holds an NFT senior bond and is able to track her portfolio growth using the statistics section in the BarnBridge app. She will be able to redeem both her principal and gain at the maturity date. There is currently no formal secondary marketplace for senior bonds but they are totally transferable between Ethereum addresses and BarnBridge core team is working on an additional product for it called SMART FIAT \(full details disclosed in a few weeks\).
+Alice now holds an NFT senior bond and is able to track her portfolio growth using the statistics section in the BarnBridge app. She will be able to redeem both her principal and gain at the maturity date. There is currently no formal secondary marketplace for senior bonds but they are totally transferable between Ethereum addresses and BarnBridge core team is working on an additional product for it called SMART FIAT (full details disclosed in a few weeks).
 
 [_How to redeem a senior bond?_](smart-yield-faq/how-to-redeem-senior-bonds.md)
 
@@ -115,7 +115,7 @@ Bob decides to enter the junior position considering he is going to stake his jT
 
 He goes to the Deposit page, inputs the amount of USDC he wants to buy `bb_cUSDC`with, and confirms the transaction. The current conversion rate is 1:1.0329, so each `bb_cUSDC` token will cost 1.0329 USDC.
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](<../.gitbook/assets/image (14).png>)
 
 Pooled Alice’s and Bob’s liquidity is put into Compound to earn yield. The originator APY represents the Compound native APY.
 
@@ -123,14 +123,14 @@ It’s important to note that BarnBridge uses a 3-day moving average historical 
 
 Alice is earning a lower yield than she produces but if the originator APY goes below her guaranteed APY, junior funds will be used to cover her rates. Bob is getting a chance to leverage seniors’ liquidity and earn the extra yield produced by seniors.
 
-![](https://lh6.googleusercontent.com/dhifDlSCU_270Ths-cueiAoWH_MuZWim1eSTFVBdzeoCAQJ8qsxiCavYlUKwkA76up8DIgCGAplNk8ooNPYqyct8o2lOcrzC4DRK9cRv5lWUQinUYY25fWQgI-_GnqM6SttgwMDY)
+![](https://lh6.googleusercontent.com/dhifDlSCU\_270Ths-cueiAoWH_MuZWim1eSTFVBdzeoCAQJ8qsxiCavYlUKwkA76up8DIgCGAplNk8ooNPYqyct8o2lOcrzC4DRK9cRv5lWUQinUYY25fWQgI-\_GnqM6SttgwMDY)
 
 
 
 Bob’s advantage over Alice is that he is able to exit his junior position at any time. However, in order to ensure that there are enough funds in the pool available to supply seniors’ guaranteed gains, there have been two options developed for juniors to withdraw their funds:
 
-1. Instant withdrawal — Bob withdraws his liquidity immediately but forfeits a part of it in favor of seniors. The exact % that needs to be forfeited is calculated at the moment of withdrawal and depends on the amount of senior guaranteed gains. \([_How to instantly withdraw junior tokens?_](https://docs.barnbridge.com/how-to-guides/smart-yield/how-to-withdraw-junior-tokens)\)
-2. 2-step withdrawal through the junior bond — Bob mints a junior bond which contains the amount of tokens he wants to withdraw and seniors average maturity date \(ABOND.maturesAt\). He will be able to redeem his liquidity at the maturity of the bond similar to how seniors do this. \([_How to withdraw junior tokens with a junior bond?_](smart-yield-faq/how-to-withdraw-junior-tokens.md#2-steps-withdraw)\)
+1. Instant withdrawal — Bob withdraws his liquidity immediately but forfeits a part of it in favor of seniors. The exact % that needs to be forfeited is calculated at the moment of withdrawal and depends on the amount of senior guaranteed gains. ([_How to instantly withdraw junior tokens?_](https://docs.barnbridge.com/how-to-guides/smart-yield/how-to-withdraw-junior-tokens))
+2. 2-step withdrawal through the junior bond — Bob mints a junior bond which contains the amount of tokens he wants to withdraw and seniors average maturity date (ABOND.maturesAt). He will be able to redeem his liquidity at the maturity of the bond similar to how seniors do this. ([_How to withdraw junior tokens with a junior bond?_](smart-yield-faq/how-to-withdraw-junior-tokens.md#2-steps-withdraw))
 
 {% hint style="info" %}
 Note: The max senior maturity date is subject to change and can be adjusted by the BarnBridge DAO vote. It is currently set to 1 year. If you are considering investing in junior tokens, make sure you understand the risks of being locked for that time in case you don’t want to sacrifice a part of your liquidity with instant withdrawal.
@@ -158,5 +158,4 @@ Now it’s time to earn in a SMART way: [Launch app](https://app.barnbridge.com/
 Feel free to drop us a message if you have any questions:
 
 * [Discord Community Server](https://discord.gg/barnbridge)
-* [pavlo@barnbrige.com](mailto:pavlo@barnbridge.com) or [max@barnbridge.com](mailto:max@barnbridge.com)
-
+* [pavlo@barnbrige.com](mailto:pavlo@barnbridge.com) or [max@barnbridge.com](mailto:max.fiege@barnbridge.com)

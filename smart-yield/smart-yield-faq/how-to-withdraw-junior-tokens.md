@@ -2,7 +2,7 @@
 
 ## Instant withdraw
 
-{% embed url="https://www.youtube.com/watch?v=h8Qw\_QgXMjE&list=PLxTVglkwGU0JHelMsWVC\_CuSqXAJ9dXwl&index=4&ab\_channel=BarnBridge" %}
+{% embed url="https://www.youtube.com/watch?v=h8Qw_QgXMjE&list=PLxTVglkwGU0JHelMsWVC_CuSqXAJ9dXwl&index=4&ab_channel=BarnBridge" %}
 
 1. Go to the BarnBridge app at [https://app.barnbridge.com/smart-yield](https://app.barnbridge.com/smart-yield)
 2. Connect your wallet to the platform.
@@ -19,7 +19,7 @@ Congrats! Now you should see your assets in the wallet.
 
 ## 2 steps withdraw
 
-{% embed url="https://www.youtube.com/watch?v=cxL6kTIRFoQ&list=PLxTVglkwGU0JHelMsWVC\_CuSqXAJ9dXwl&index=5&ab\_channel=BarnBridge" %}
+{% embed url="https://www.youtube.com/watch?v=cxL6kTIRFoQ&list=PLxTVglkwGU0JHelMsWVC_CuSqXAJ9dXwl&index=5&ab_channel=BarnBridge" %}
 
 1. Go to the BarnBridge app at [https://app.barnbridge.com/smart-yield](https://app.barnbridge.com/smart-yield)
 2. Connect your wallet to the platform.
@@ -37,4 +37,3 @@ Half the work is done! Now you should see your assets under locked positions sec
 ## Useful links
 
 * [Junior bonds: steps for exit](https://docs.barnbridge.com/sy-specs/junior-tranches#steps-for-exit)
-

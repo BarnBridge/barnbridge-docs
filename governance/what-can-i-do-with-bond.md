@@ -12,7 +12,7 @@ BOND is the governance token of the BarnBridge DAO, short for “Decentralized A
 
 ## **BOND Specification**
 
-The BOND token conforms to Ethereum’s ERC-20 standard. Therefore, the token is fungible and can be supported by any wallet that supports ERC-20 tokens. The total number of tokens is set to 10,000,000 \(ten million\) and cannot be changed because there is no minting function in the contract. 
+The BOND token conforms to Ethereum’s ERC-20 standard. Therefore, the token is fungible and can be supported by any wallet that supports ERC-20 tokens. The total number of tokens is set to 10,000,000 (ten million) and cannot be changed because there is no minting function in the contract. 
 
 **The token parameters are:**
 
@@ -30,25 +30,24 @@ The DAO pool was preloaded with 610,000 BOND tokens and the duration was set to 
 
 More details about the DAO staking pool in our Medium post: [Pool 3 ends and DAO governance rewards begins](https://medium.com/barnbridge/pool-3-ends-and-dao-governance-rewards-begins-8e57ec5041).
 
-**Also, check out the detailed guide on** [**How to Stake in the DAO**](https://docs.barnbridge.com/how-to-guides/barnbridge-dao/how-to-obtain-voting-power-on-the-dao)**?**
+**Also, check out the detailed guide on **[**How to Stake in the DAO**](https://docs.barnbridge.com/how-to-guides/barnbridge-dao/how-to-obtain-voting-power-on-the-dao)**?**
 
 ![](https://lh6.googleusercontent.com/nFvI-Nt6zoXwJn5MbYbejEM9xj1yApJApfZWr97IL9IKrn8-rviud8tokBAU3aBasXrQw5XfPXsHd2WsJcoW4DW5jY0i2lLHIyNbmP1cjyzUUmiLbMcJcKDODZCv3ZowOJdJUx2Q)
 
 ## **Providing Liquidity**
 
-There are plenty of opportunities with BOND when it comes to liquidity providing. The most liquid and well ****incentivized pool is a USDC/BOND Uniswap v2 pool. It was launched on Oct 26th, 2020. The concept behind the initiative is to reward long-term liquidity providers of the USDC/BOND pool with progressively more power over the protocol as they continue to risk their capital for the BarnBridge vision.
+There are plenty of opportunities with BOND when it comes to liquidity providing. The most liquid and well** **incentivized pool is a USDC/BOND Uniswap v2 pool. It was launched on Oct 26th, 2020. The concept behind the initiative is to reward long-term liquidity providers of the USDC/BOND pool with progressively more power over the protocol as they continue to risk their capital for the BarnBridge vision.
 
-To start getting BOND rewards, you have to provide liquidity to the [USDC/BOND pool](https://app.uniswap.org/#/add/0x0391d2021f89dc339f60fff84546ea23e337750f/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48) and stake USDC\_BOND\_UNI\_LP tokens in the [yield farming pool](https://app.barnbridge.com/yield-farming) on BarnBridge. 
+To start getting BOND rewards, you have to provide liquidity to the [USDC/BOND pool](https://app.uniswap.org/#/add/0x0391d2021f89dc339f60fff84546ea23e337750f/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48) and stake USDC_BOND_UNI_LP tokens in the [yield farming pool](https://app.barnbridge.com/yield-farming) on BarnBridge. 
 
-Be aware of the impermanent loss risks associated with the liquidity providing and make sure to check  [Yield Farming $BOND: The Risks Involved](https://medium.com/barnbridge/yield-farming-bond-the-risks-involved-7cefdba01b17).  
+Be aware of the impermanent loss risks associated with the liquidity providing and make sure to check  [Yield Farming $BOND: The Risks Involved](https://medium.com/barnbridge/yield-farming-bond-the-risks-involved-7cefdba01b17).\
 ****
 
-![](https://lh3.googleusercontent.com/BoRInHLD3HQ8XNGsM7ltVs1A5iT69Tc-rdanu6ihWmRJMbiqnB6oZtA2nEWwp4o_MszCozKFItnoZZ0bGJKOh_zegb1pBO7urOB4_TXardmQHipfmQlWGgNP-voN592nC6SKe_De)
+![](https://lh3.googleusercontent.com/BoRInHLD3HQ8XNGsM7ltVs1A5iT69Tc-rdanu6ihWmRJMbiqnB6oZtA2nEWwp4o_MszCozKFItnoZZ0bGJKOh_zegb1pBO7urOB4\_TXardmQHipfmQlWGgNP-voN592nC6SKe_De)
 
 ## **Earn Yield**
 
 As the BarnBridge project matures, we anticipate new uses for BOND to emerge via engagement with other DeFi projects. Currently, you can use your BOND on the following platforms:
 
-* **C.R.E.A.M. Finance:** A pooled lending platform, [C.R.E.A.M. Finance](https://cream.finance/) allows you to lend out BOND to users who are seeking to borrow the token. We are currently advocating for it to earn a Collateral Factor designation on the platform, meaning that in the future you’ll be able to borrow other assets against your lent BOND. 
-* **Universe XYZ:** [Universe XYZ](https://universe.xyz/) allows creators to build communities around thematic NFT issuance. 7% of its token supply will be distributed via a proof of capital mechanism; BOND is one of the accepted tokens for this program.
-
+* **C.R.E.A.M. Finance: **A pooled lending platform, [C.R.E.A.M. Finance](https://cream.finance) allows you to lend out BOND to users who are seeking to borrow the token. We are currently advocating for it to earn a Collateral Factor designation on the platform, meaning that in the future you’ll be able to borrow other assets against your lent BOND. 
+* **Universe XYZ: **[Universe XYZ](https://universe.xyz) allows creators to build communities around thematic NFT issuance. 7% of its token supply will be distributed via a proof of capital mechanism; BOND is one of the accepted tokens for this program.

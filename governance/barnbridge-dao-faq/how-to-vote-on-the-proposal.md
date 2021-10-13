@@ -14,4 +14,3 @@
 6. Confirm the transaction in your wallet, pay gas fees, and wait.
 
 Once the transaction is approved you will see that your vote was counted.
-
